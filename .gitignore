@@ -71,7 +71,6 @@ dkms.conf
 *.user
 *.userosscache
 *.sln.docstates
-DS.Store
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
